@@ -1,5 +1,5 @@
 
-//This class  will implement a quadratic equation
+//This class  will implement a quadratic equation, using basic instance variables
 
 /**
  * 
