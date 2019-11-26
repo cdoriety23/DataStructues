@@ -1,8 +1,6 @@
   /**
 
-    @author Christopher Doriety
-
-    
+    @author Christopher D
 
    */
 
@@ -86,13 +84,9 @@ public class Polynomial
     {
 
       TermNode source = p.head;
-
       TermNode copyHead;
-
       TermNode copyTail;
-
       copyHead = new TermNode(p.head.coefficient, p.head.exponent, null);
-
       copyTail = copyHead;
 
       while (source.link != null)
